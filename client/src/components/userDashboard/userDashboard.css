@@ -1,0 +1,31 @@
+.dashboardImageContainer {
+    margin-right: auto !important;
+    margin-left: auto;
+    background-size: 100%;
+    background-image: "../../assets/SocialPanda2.png";
+    size: 45%;
+    border-radius: 50%;
+    background-repeat: no-repeat;
+}
+
+#welcome {
+    text-align: center;
+    color: white;
+    padding: 5px;
+    background-color: rgba(0, 0, 0, 0.623);
+    width: 25%;
+    border-radius: 10px;
+    margin: auto;
+}
+
+.dashTagList {
+    float: left;
+}
+
+#logoPanda2 {
+    margin-top: 10%;
+    margin-right: auto;
+    margin-left: 30%;
+    border-radius: 90%;
+
+}
